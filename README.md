@@ -1,4 +1,4 @@
-# Multiple Model for Predictions
+# Multiple Model Predictor
 # Program: Soil Class
 # Source codes: generate_data.R and mmp_full.R
 # Inputs: data.RData
