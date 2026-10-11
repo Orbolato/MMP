@@ -1,5 +1,11 @@
-# User manual for dt_full.R and rf_full.R
-# 1) Run the R saved workspace (data.RData) created with the generate_data.R code
-# 2) Run the entire code
-# 3) Check the variables initialization in the first code section to found the information of interest
-# 4) Compare with the results in results_dt_full.R, for dt_full.R, and results_rf_full.R, for rf_full.R
+# Workspace generation
+
+This historical one-paragraph manual has been superseded by the repository README.
+
+For a reproducible local workspace, use:
+
+```bash
+Rscript generate_data.R --input metro.csv --output data.RData --seed 2021
+```
+
+The Tropical dataset is intentionally not distributed by this public repository because the associated paper states that it was provided under a confidentiality term.

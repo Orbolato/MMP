@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+*.Rproj
+.DS_Store
+results/
+metro.csv
+data.RData
+*.RData
